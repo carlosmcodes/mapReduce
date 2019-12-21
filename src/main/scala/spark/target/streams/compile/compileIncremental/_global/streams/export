@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/carloslopez/.sbt/boot/scala-2.12.10/lib/scala-library.jar -classpath /home/carloslopez/IdeaProjects/mapreduce/src/main/scala/spark/target/scala-2.12/classes /home/carloslopez/IdeaProjects/mapreduce/src/main/scala/spark/Main.scala

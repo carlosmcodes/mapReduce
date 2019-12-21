@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/carloslopez/IdeaProjects/mapreduce/src/main/scala/spark/Main.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.{SparkConf, SparkContext}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carloslopez/IdeaProjects/mapreduce/src/main/scala/spark/Main.scala:29:20: not found: type SparkConf[0m
+[0m[[0m[31merror[0m] [0m[0m    val conf = new SparkConf().setAppName("mapreduceSpark").setMaster("local[*]")[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carloslopez/IdeaProjects/mapreduce/src/main/scala/spark/Main.scala:30:28: not found: type SparkContext[0m
+[0m[[0m[31merror[0m] [0m[0m    val sparkContext = new SparkContext(conf)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

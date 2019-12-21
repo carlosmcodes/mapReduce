@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/mapreduce_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hadoop[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/hadoop[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hadoop/hadoopMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/hadoop/hadoopMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hadoop/mapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/hadoop/mapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hadoop/reducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/hadoop/reducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hadoop/hadoopMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/hadoop/hadoopMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/spark/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/carloslopez/IdeaProjects/mapreduce/target/scala-2.12/classes/spark/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
